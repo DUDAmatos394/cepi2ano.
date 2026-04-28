@@ -1,77 +1,38 @@
 # cepi2ano.
 projeto do 2 ano de desenvolvimento de sistemas
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Projeto no GitHub</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #4facfe, #00f2fe);
-            color: #333;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
+<h1 align="center" style="color:#1E90FF;">👋 Bem-vindo ao meu perfil</h1>
 
-        header {
-            background: rgba(255,255,255,0.9);
-            padding: 20px;
-        }
+<h2 align="center">👩‍💻 Maria Eduarda Matos</h2>
 
-        h1 {
-            margin: 0;
-        }
+<p align="center">
+🎓 Estudante / Desenvolvedora em formação  
+</p>
 
-        main {
-            padding: 40px;
-        }
+<hr>
 
-        .card {
-            background: white;
-            padding: 20px;
-            margin: 20px auto;
-            border-radius: 10px;
-            max-width: 400px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-        }
+<h3 style="color:#1E90FF;">🚀 Sobre mim</h3>
 
-        button {
-            background: #4facfe;
-            border: none;
-            padding: 10px 20px;
-            color: white;
-            border-radius: 5px;
-            cursor: pointer;
-        }
+<ul>
+<li>🔭 Atualmente estudando: <b>C#, HTML, CSS</b></li>
+<li>🌱 Aprendendo sobre: <b>Programação e Banco de Dados</b></li>
+<li>🤝 Buscando colaborar em projetos</li>
+<li>📫 Contato: senaidudamatos@email.com</li>
+</ul>
 
-        button:hover {
-            background: #0077cc;
-        }
-    </style>
-</head>
-<body>
+<hr>
 
-<header>
-    <h1>Bem-vindo ao meu site 🚀</h1>
-    <p>Hospedado no GitHub Pages</p>
-</header>
+<h3 style="color:#1E90FF;">📚 Estou aprendendo</h3>
 
-<main>
-    <div class="card">
-        <h2>Sobre</h2>
-        <p>Este é um exemplo de página HTML simples para seu repositório.</p>
-        <button onclick="mostrarMensagem()">Clique aqui</button>
-    </div>
-</main>
+<ul>
+<li>💻 Lógica de programação</li>
+<li>🧩 Desenvolvimento de sistemas</li>
+<li>🗄️ Banco de dados</li>
+</ul>
 
-<script>
-    function mostrarMensagem() {
-        alert("Você clicou no botão! 🎉");
-    }
-</script>
+<hr>
 
-</body>
-</html>
+<h3 style="color:#1E90FF;">🎯 Objetivo</h3>
+
+<p>
+Me tornar uma desenvolvedora profissional e criar projetos incríveis 🚀
+</p>
