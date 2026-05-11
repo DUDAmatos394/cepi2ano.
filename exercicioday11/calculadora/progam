@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace exercicio_calculadora
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            calculadora calc = new calculadora();
+
+            Console.Write("Entre com o valor ");
+            double raio = double.Parse(Console.ReadLine());
+            double circ = calc.circunferencia(raio);
+            double volume = calc.volume(raio);
+
+            Console.WriteLine("Circunferencia :" + circ.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("volume :" + volume.ToString("F2",CultureInfo.InvariantCulture));
+            Console.WriteLine("valor de Pi " + calc.Pi.ToString("F2",CultureInfo.InvariantCulture));
+
+        }
+    }
+}
